@@ -18,7 +18,6 @@ Challenge_1a/
 
 ## 🧪 How to Build & Run
 
-
 ### Build the Docker image:
 ```bash
 docker build --platform=linux/amd64 -t pdf-processor .
@@ -35,3 +34,15 @@ docker run --rm \
   --network none pdf-processor
 ```
 
+## 🧪 View Output
+
+Run:
+```bash
+ls sample_dataset/outputs/
+```
+
+Open the JSON to view structured data:
+```bash
+cat sample_dataset/outputs/sample1.json | jq .
+```
+(Install jq if not installed: sudo apt install jq in Ubuntu)
