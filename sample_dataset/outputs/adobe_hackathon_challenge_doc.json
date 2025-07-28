@@ -1,0 +1,1544 @@
+{
+  "document_info": {
+    "filename": "adobe_hackathon_challenge_doc.pdf",
+    "total_pages": 10,
+    "creation_date": "2025-07-11 17:17:12",
+    "modification_date": "2025-07-11 22:53:32",
+    "author": "Ajit Kumar",
+    "title": "",
+    "subject": ""
+  },
+  "content": {
+    "pages": [
+      {
+        "page_number": 1,
+        "text_content": " \n",
+        "text_blocks": [],
+        "images": [],
+        "tables": []
+      },
+      {
+        "page_number": 2,
+        "text_content": "Welcome to the “Connecting the Dots” Challenge  \n \nRethink Reading. Rediscover Knowledge  \nWhat if every time you opened a PDF, it didn’t just sit there—it spoke to you, \nconnected ideas, and narrated meaning across your entire library?  \nThat’s the future we’re building — and we want you to help shape it.  \nIn the Connecting the Dots Challenge, your mission is to reimagine the humble \nPDF as an intelligent, interactive experience—one that understands structure, \nsurfaces insights, and responds to you like a trusted research companion.  \nThe Journey Ahead \n  \n• Round 1:  \nKick things off by building the brains — extract structured outlines from \nraw PDFs with blazing speed and pinpoint accuracy. Then, power it up \nwith on-device intelligence that understands sections and links related \nideas together.  \n• Round 2:  \nIt’s showtime! Build a beautiful, intuitive reading webapp using Adobe’s \nPDF Embed API. You will be using your Round 1 work to design a \nfuturistic webapp. \nWhy This Matters  \nIn a world flooded with documents, what wins is not more content — it’s \ncontext. You’re not just building tools — you’re building the future of how we \nread, learn, and connect. No matter your background — ML hacker, UI builder, \nor insight whisperer — this is your stage.  \nAre you in?  \nIt’s time to read between the lines. Connect the dots. And build a PDF \nexperience that feels like magic. Let’s go.  \n",
+        "text_blocks": [
+          {
+            "bbox": [
+              72.0250015258789,
+              73.424560546875,
+              488.47149658203125,
+              96.530029296875
+            ],
+            "text": "Welcome to the “Connecting the Dots” Challenge",
+            "font_size": 20.0,
+            "font": "Calibri-Bold"
+          },
+          {
+            "bbox": [
+              72.0250015258789,
+              107.280029296875,
+              311.7950439453125,
+              138.29998779296875
+            ],
+            "text": "Rethink Reading. Rediscover Knowledge",
+            "font_size": 14.0,
+            "font": "Calibri-Bold"
+          },
+          {
+            "bbox": [
+              72.0250015258789,
+              155.54998779296875,
+              511.1450500488281,
+              186.54998779296875
+            ],
+            "text": "What if every time you opened a PDF, it didn’t just sit there—it spoke to you, connected ideas, and narrated meaning across your entire library?",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              72.0250015258789,
+              203.83001708984375,
+              470.61505126953125,
+              217.83001708984375
+            ],
+            "text": "That’s the future we’re building — and we want you to help shape it.",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              72.0250015258789,
+              234.83001708984375,
+              524.5210571289062,
+              283.08001708984375
+            ],
+            "text": "In the Connecting the Dots Challenge, your mission is to reimagine the humble PDF as an intelligent, interactive experience—one that understands structure, surfaces insights, and responds to you like a trusted research companion.",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              72.0250015258789,
+              300.0999755859375,
+              186.4950408935547,
+              331.0999755859375
+            ],
+            "text": "The Journey Ahead",
+            "font_size": 14.0,
+            "font": "Calibri-Bold"
+          },
+          {
+            "bbox": [
+              126.05000305175781,
+              334.3500061035156,
+              202.4950408935547,
+              348.3500061035156
+            ],
+            "text": "• Round 1:",
+            "font_size": 14.0,
+            "font": "Calibri-Bold"
+          },
+          {
+            "bbox": [
+              108.05000305175781,
+              365.3500061035156,
+              518.3570556640625,
+              430.6199951171875
+            ],
+            "text": "Kick things off by building the brains — extract structured outlines from raw PDFs with blazing speed and pinpoint accuracy. Then, power it up with on-device intelligence that understands sections and links related ideas together.",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              126.05000305175781,
+              447.8699951171875,
+              202.4950408935547,
+              461.8699951171875
+            ],
+            "text": "• Round 2:",
+            "font_size": 14.0,
+            "font": "Calibri-Bold"
+          },
+          {
+            "bbox": [
+              108.05000305175781,
+              478.8999938964844,
+              519.3572387695312,
+              527.1500244140625
+            ],
+            "text": "It’s showtime! Build a beautiful, intuitive reading webapp using Adobe’s PDF Embed API. You will be using your Round 1 work to design a futuristic webapp.",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              72.0250015258789,
+              544.1700439453125,
+              181.4950408935547,
+              558.1700439453125
+            ],
+            "text": "Why This Matters",
+            "font_size": 14.0,
+            "font": "Calibri-Bold"
+          },
+          {
+            "bbox": [
+              72.0250015258789,
+              575.1700439453125,
+              525.9551391601562,
+              640.4299926757812
+            ],
+            "text": "In a world flooded with documents, what wins is not more content — it’s context. You’re not just building tools — you’re building the future of how we read, learn, and connect. No matter your background — ML hacker, UI builder, or insight whisperer — this is your stage.",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              72.0250015258789,
+              657.7000122070312,
+              144.2150421142578,
+              671.7000122070312
+            ],
+            "text": "Are you in?",
+            "font_size": 14.0,
+            "font": "Calibri-Bold"
+          },
+          {
+            "bbox": [
+              72.0250015258789,
+              688.7000122070312,
+              471.4691467285156,
+              719.7000122070312
+            ],
+            "text": "It’s time to read between the lines. Connect the dots. And build a PDF experience that feels like magic. Let’s go.",
+            "font_size": 14.0,
+            "font": "Calibri"
+          }
+        ],
+        "images": [],
+        "tables": []
+      },
+      {
+        "page_number": 3,
+        "text_content": "Round 1A: Understand Your Document  \n Challenge Theme: Connecting the Dots Through Docs  \n Your Mission  \nYou're handed a PDF — but instead of simply reading it, you're tasked with \nmaking sense of it like a machine would. Your job is to extract a structured \noutline of the document — essentially the Title, and headings like H1, H2, and \nH3 — in a clean, hierarchical format.  \nThis outline will be the foundation for the rest of your hackathon journey.  \n Why This Matters  \nPDFs are everywhere — but machines don’t naturally understand their \nstructure. By building an outline extractor, you’re enabling smarter document \nexperiences, like semantic search, recommendation systems, and insight \ngeneration.  \n What You Need to Build  \nYou must build a solution that:  \n• Accepts a PDF file (up to 50 pages)  \n• Extracts:  \no Title  \no Headings: H1, H2, H3 (with level and page number)  \n• Outputs a valid JSON file in the format below:  \n{  \n  \"title\": \"Understanding AI\",  \n  \"outline\": [  \n    { \"level\": \"H1\", \"text\": \"Introduction\", \"page\": 1 },  \n    { \"level\": \"H2\", \"text\": \"What is AI?\", \"page\": 2 },  \n    { \"level\": \"H3\", \"text\": \"History of AI\", \"page\": 3 }  \n  ]  \n}  \n You Will Be Provided  \n1. A sample input PDF (e.g., sample.pdf)  \n2. A sample ground truth output (sample.json) for format clarity  \n",
+        "text_blocks": [
+          {
+            "bbox": [
+              72.0250015258789,
+              76.530029296875,
+              401.9414978027344,
+              96.530029296875
+            ],
+            "text": "Round 1A: Understand Your Document",
+            "font_size": 20.0,
+            "font": "Calibri-Bold"
+          },
+          {
+            "bbox": [
+              72.0250015258789,
+              117.29998779296875,
+              389.3350524902344,
+              131.29998779296875
+            ],
+            "text": "Challenge Theme: Connecting the Dots Through Docs",
+            "font_size": 14.0,
+            "font": "Calibri-Bold"
+          },
+          {
+            "bbox": [
+              72.0250015258789,
+              148.29998779296875,
+              157.2450408935547,
+              162.29998779296875
+            ],
+            "text": "Your Mission",
+            "font_size": 14.0,
+            "font": "Calibri-Bold"
+          },
+          {
+            "bbox": [
+              72.0250015258789,
+              179.54998779296875,
+              518.0870361328125,
+              244.83001708984375
+            ],
+            "text": "You're handed a PDF — but instead of simply reading it, you're tasked with making sense of it like a machine would. Your job is to extract a structured outline of the document — essentially the Title, and headings like H1, H2, and H3 — in a clean, hierarchical format.",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              72.0250015258789,
+              261.83001708984375,
+              499.36505126953125,
+              275.83001708984375
+            ],
+            "text": "This outline will be the foundation for the rest of your hackathon journey.",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              72.0250015258789,
+              293.0999755859375,
+              184.7450408935547,
+              307.0999755859375
+            ],
+            "text": "Why This Matters",
+            "font_size": 14.0,
+            "font": "Calibri-Bold"
+          },
+          {
+            "bbox": [
+              72.0250015258789,
+              324.1000061035156,
+              517.1510620117188,
+              389.3699951171875
+            ],
+            "text": "PDFs are everywhere — but machines don’t naturally understand their structure. By building an outline extractor, you’re enabling smarter document experiences, like semantic search, recommendation systems, and insight generation.",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              72.0250015258789,
+              406.3699951171875,
+              221.51504516601562,
+              420.3699951171875
+            ],
+            "text": "What You Need to Build",
+            "font_size": 14.0,
+            "font": "Calibri-Bold"
+          },
+          {
+            "bbox": [
+              72.0250015258789,
+              437.6199951171875,
+              253.01504516601562,
+              451.6199951171875
+            ],
+            "text": "You must build a solution that:",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              126.05000305175781,
+              468.6499938964844,
+              347.3150329589844,
+              482.6499938964844
+            ],
+            "text": "• Accepts a PDF file (up to 50 pages)",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              126.05000305175781,
+              485.8999938964844,
+              199.4950408935547,
+              499.8999938964844
+            ],
+            "text": "• Extracts:",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              162.0800018310547,
+              502.9000244140625,
+              212.26504516601562,
+              516.9000244140625
+            ],
+            "text": "o Title",
+            "font_size": 14.0,
+            "font": "Calibri-Bold"
+          },
+          {
+            "bbox": [
+              162.0800018310547,
+              519.9000244140625,
+              478.36505126953125,
+              533.9000244140625
+            ],
+            "text": "o Headings: H1, H2, H3 (with level and page number)",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              126.05000305175781,
+              537.1500244140625,
+              409.8350524902344,
+              551.1500244140625
+            ],
+            "text": "• Outputs a valid JSON file in the format below:",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              72.0250015258789,
+              554.1700439453125,
+              370.5650329589844,
+              687.7000122070312
+            ],
+            "text": "{    \"title\": \"Understanding AI\",    \"outline\": [      { \"level\": \"H1\", \"text\": \"Introduction\", \"page\": 1 },      { \"level\": \"H2\", \"text\": \"What is AI?\", \"page\": 2 },      { \"level\": \"H3\", \"text\": \"History of AI\", \"page\": 3 }    ]  }",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              72.0250015258789,
+              704.9500122070312,
+              203.4950408935547,
+              718.9500122070312
+            ],
+            "text": "You Will Be Provided",
+            "font_size": 14.0,
+            "font": "Calibri-Bold"
+          },
+          {
+            "bbox": [
+              126.05000305175781,
+              733.8011474609375,
+              504.1350402832031,
+              767.2249755859375
+            ],
+            "text": "1. A sample input PDF (e.g., sample.pdf)  2. A sample ground truth output (sample.json) for format clarity",
+            "font_size": 14.0,
+            "font": "Calibri"
+          }
+        ],
+        "images": [],
+        "tables": []
+      },
+      {
+        "page_number": 4,
+        "text_content": "3. Sample Dockerfile  \n4. Sample Solution \n Docker Requirements  \n•  \n• Please ensure your Dockerfile is compatible with AMD64 \narchitecture. Since we will build and run the image on an AMD64 \nmachine, your base image and any dependencies should support \nlinux/amd64. Optionally, you can include the following in your \nDockerfile to explicitly specify the platform: FROM --\nplatform=linux/amd64 <base_image>  \n• CPU architecture: amd64 (x86_64)  \n• No GPU dependencies  \n• Model size (if used) ≤ 200MB  \n• Should work offline — no network/internet calls  \nExpected Execution  \nWe will build the docker image using the following command: \n```docker build --platform linux/amd64 -t \nmysolutionname:somerandomidentifier``` \n After building the image, we will run the solution using the run command \nspecified in the submitted instructions. \n```docker run --rm -v $(pwd)/input:/app/input -v $(pwd)/output:/app/output --\nnetwork none mysolutionname:somerandomidentifier```  \nYour container should:  \n• Automatically process all PDFs from /app/input directory, \ngenerating a corresponding filename.json in /app/output for each \nfilename.pdf  \n• output.json  \n Constraints  \nConstraint  \nRequirement  \nExecution \ntime  \n≤ 10 seconds for a 50-page \nPDF  \n",
+        "text_blocks": [
+          {
+            "bbox": [
+              126.05000305175781,
+              72.856201171875,
+              253.26504516601562,
+              106.030029296875
+            ],
+            "text": "3. Sample Dockerfile  4. Sample Solution",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              72.0250015258789,
+              123.29998779296875,
+              207.51504516601562,
+              137.29998779296875
+            ],
+            "text": "Docker Requirements",
+            "font_size": 14.0,
+            "font": "Calibri-Bold"
+          },
+          {
+            "bbox": [
+              126.05000305175781,
+              154.29998779296875,
+              147.2150421142578,
+              168.29998779296875
+            ],
+            "text": "•",
+            "font_size": 10.0,
+            "font": "SymbolMT"
+          },
+          {
+            "bbox": [
+              126.05000305175781,
+              171.29998779296875,
+              498.0452575683594,
+              270.83001708984375
+            ],
+            "text": "• Please ensure your Dockerfile is compatible with AMD64 architecture. Since we will build and run the image on an AMD64 machine, your base image and any dependencies should support linux/amd64. Optionally, you can include the following in your Dockerfile to explicitly specify the platform: FROM --platform=linux/amd64 <base_image>",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              126.05000305175781,
+              274.07000732421875,
+              348.0650329589844,
+              288.07000732421875
+            ],
+            "text": "• CPU architecture: amd64 (x86_64)",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              126.05000305175781,
+              291.0999755859375,
+              277.5450439453125,
+              305.0999755859375
+            ],
+            "text": "• No GPU dependencies",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              126.05000305175781,
+              308.0999755859375,
+              315.2950439453125,
+              322.0999755859375
+            ],
+            "text": "• Model size (if used) ≤ 200MB",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              126.05000305175781,
+              325.3500061035156,
+              425.0850524902344,
+              339.3500061035156
+            ],
+            "text": "• Should work offline — no network/internet calls",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              72.0250015258789,
+              356.3500061035156,
+              191.7450408935547,
+              370.3500061035156
+            ],
+            "text": "Expected Execution",
+            "font_size": 14.0,
+            "font": "Calibri-Bold"
+          },
+          {
+            "bbox": [
+              72.0250015258789,
+              387.3699951171875,
+              426.3350524902344,
+              401.3699951171875
+            ],
+            "text": "We will build the docker image using the following command:",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              72.0250015258789,
+              418.6199951171875,
+              315.0450439453125,
+              449.6199951171875
+            ],
+            "text": "```docker build --platform linux/amd64 -t mysolutionname:somerandomidentifier```",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              72.0250015258789,
+              466.6499938964844,
+              494.4922180175781,
+              497.8999938964844
+            ],
+            "text": "After building the image, we will run the solution using the run command specified in the submitted instructions.",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              72.0250015258789,
+              514.9000244140625,
+              520.2661743164062,
+              546.1500244140625
+            ],
+            "text": "```docker run --rm -v $(pwd)/input:/app/input -v $(pwd)/output:/app/output --network none mysolutionname:somerandomidentifier```",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              72.0250015258789,
+              563.1700439453125,
+              207.51504516601562,
+              577.1700439453125
+            ],
+            "text": "Your container should:",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              126.05000305175781,
+              594.1699829101562,
+              503.30926513671875,
+              642.4299926757812
+            ],
+            "text": "• Automatically process all PDFs from /app/input directory, generating a corresponding filename.json in /app/output for each filename.pdf",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              126.05000305175781,
+              645.4500122070312,
+              216.26504516601562,
+              659.4500122070312
+            ],
+            "text": "• output.json",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              72.0250015258789,
+              676.7000122070312,
+              147.7150421142578,
+              690.7000122070312
+            ],
+            "text": "Constraints",
+            "font_size": 14.0,
+            "font": "Calibri-Bold"
+          },
+          {
+            "bbox": [
+              78.2750015258789,
+              707.7000122070312,
+              270.5450439453125,
+              721.7000122070312
+            ],
+            "text": "Constraint  Requirement",
+            "font_size": 14.0,
+            "font": "Calibri-Bold"
+          },
+          {
+            "bbox": [
+              72.0250015258789,
+              724.719970703125,
+              130.9100341796875,
+              755.9749755859375
+            ],
+            "text": "Execution time",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              148.5800018310547,
+              724.719970703125,
+              303.99908447265625,
+              755.9749755859375
+            ],
+            "text": "≤ 10 seconds for a 50-page PDF",
+            "font_size": 14.0,
+            "font": "Calibri"
+          }
+        ],
+        "images": [],
+        "tables": [
+          {
+            "bbox": [
+              72.0250015258789,
+              707.7000122070312,
+              303.99908447265625,
+              755.9749755859375
+            ],
+            "rows": 3,
+            "columns": 2,
+            "data": [
+              [
+                "Constraint",
+                "Requirement"
+              ],
+              [
+                "Execution",
+                "≤ 10 seconds for a 50-page"
+              ],
+              [
+                "time",
+                "PDF"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 5,
+        "text_content": "Model size  ≤ 200MB (if used)  \nNetwork  \nNo internet access \nallowed  \nRuntime  \nMust run on CPU (amd64), \nyour solution should run on \nthe system with 8 CPUs and \n16 GB RAM configurations   \n  \nScoring Criteria  \nCriteria  \nMax \nPoints  \nHeading Detection Accuracy (Precision + \nRecall)  \n25  \nPerformance (Time & Size Compliance)  \n10  \nBonus: Multilingual Handling (e.g., \nJapanese)  \n10  \nTotal  \n45  \n  \nSubmission Checklist  \n1. Git Project with a working Dockerfile in the root director and   \n2. A working Dockerfile  \n3. All dependencies installed within the container  \n4. A README.md that explains:  \no Your approach  \no Any models or libraries used  \no How to build and run your solution (This is purely for \ndocumentation purpose, your solution should run using the \n“Expected Execution” section above.  \nPro Tips  \n• Don’t rely solely on font sizes for heading level determination — \nheadings in some PDFs break that assumption.  \n• Test your solution across both simple and complex PDFs.  \n• Make your code modular — you’ll reuse this structure in Round \n1B.  \n",
+        "text_blocks": [
+          {
+            "bbox": [
+              72.0250015258789,
+              75.030029296875,
+              255.51504516601562,
+              89.030029296875
+            ],
+            "text": "Model size  ≤ 200MB (if used)",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              72.0250015258789,
+              92.030029296875,
+              258.69110107421875,
+              123.280029296875
+            ],
+            "text": "Network  No internet access allowed",
+            "font_size": 14.0,
+            "font": "Calibri-Bold"
+          },
+          {
+            "bbox": [
+              72.0250015258789,
+              152.04998779296875,
+              126.71504211425781,
+              166.04998779296875
+            ],
+            "text": "Runtime",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              148.5800018310547,
+              126.29998779296875,
+              309.609130859375,
+              191.54998779296875
+            ],
+            "text": "Must run on CPU (amd64), your solution should run on the system with 8 CPUs and 16 GB RAM configurations",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              72.0250015258789,
+              225.83001708984375,
+              167.2450408935547,
+              239.83001708984375
+            ],
+            "text": "Scoring Criteria",
+            "font_size": 14.0,
+            "font": "Calibri-Bold"
+          },
+          {
+            "bbox": [
+              169.5800018310547,
+              256.83001708984375,
+              367.3150329589844,
+              288.07000732421875
+            ],
+            "text": "Criteria  Max Points",
+            "font_size": 14.0,
+            "font": "Calibri-Bold"
+          },
+          {
+            "bbox": [
+              72.0250015258789,
+              291.0999755859375,
+              334.0650329589844,
+              322.0999755859375
+            ],
+            "text": "Heading Detection Accuracy (Precision + Recall)  25",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              72.0250015258789,
+              325.3500061035156,
+              334.0650329589844,
+              339.3500061035156
+            ],
+            "text": "Performance (Time & Size Compliance)  10",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              72.0250015258789,
+              342.3500061035156,
+              334.0650329589844,
+              373.3500061035156
+            ],
+            "text": "Bonus: Multilingual Handling (e.g., Japanese)  10",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              72.0250015258789,
+              376.6199951171875,
+              334.0650329589844,
+              390.6199951171875
+            ],
+            "text": "Total  45",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              72.0250015258789,
+              424.6199951171875,
+              199.4950408935547,
+              438.6199951171875
+            ],
+            "text": "Submission Checklist",
+            "font_size": 14.0,
+            "font": "Calibri-Bold"
+          },
+          {
+            "bbox": [
+              126.05000305175781,
+              453.6961669921875,
+              498.61505126953125,
+              521.1500244140625
+            ],
+            "text": "1. Git Project with a working Dockerfile in the root director and   2. A working Dockerfile  3. All dependencies installed within the container  4. A README.md that explains:",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              162.0800018310547,
+              524.1500244140625,
+              269.7950439453125,
+              538.1500244140625
+            ],
+            "text": "o Your approach",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              162.0800018310547,
+              541.4000244140625,
+              347.8150329589844,
+              555.4000244140625
+            ],
+            "text": "o Any models or libraries used",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              162.0800018310547,
+              558.4200439453125,
+              503.40118408203125,
+              606.6799926757812
+            ],
+            "text": "o How to build and run your solution (This is purely for documentation purpose, your solution should run using the “Expected Execution” section above.",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              72.0250015258789,
+              623.6699829101562,
+              124.96504211425781,
+              637.6699829101562
+            ],
+            "text": "Pro Tips",
+            "font_size": 14.0,
+            "font": "Calibri-Bold"
+          },
+          {
+            "bbox": [
+              126.05000305175781,
+              654.7000122070312,
+              513.135009765625,
+              685.9500122070312
+            ],
+            "text": "• Don’t rely solely on font sizes for heading level determination — headings in some PDFs break that assumption.",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              126.05000305175781,
+              688.9500122070312,
+              472.86505126953125,
+              702.9500122070312
+            ],
+            "text": "• Test your solution across both simple and complex PDFs.",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              126.05000305175781,
+              706.2000122070312,
+              508.2550354003906,
+              737.22998046875
+            ],
+            "text": "• Make your code modular — you’ll reuse this structure in Round 1B.",
+            "font_size": 14.0,
+            "font": "Calibri"
+          }
+        ],
+        "images": [],
+        "tables": []
+      },
+      {
+        "page_number": 6,
+        "text_content": "• Important – Please keep your Git Repo private till the competition \ndeadline, you will be informed, when to make the repo public.  \nWhat Not to Do  \n• Do not hardcode headings or file-specific logic  \n• Do not make API or web calls  \n• Do not exceed the runtime/model size constraints  \n[[Public Dataset Folder]]  \n (For Sample Input and Output Files, please refer to the appendix)  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n",
+        "text_blocks": [
+          {
+            "bbox": [
+              126.05000305175781,
+              75.030029296875,
+              522.4270629882812,
+              106.030029296875
+            ],
+            "text": "• Important – Please keep your Git Repo private till the competition deadline, you will be informed, when to make the repo public.",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              72.0250015258789,
+              123.29998779296875,
+              170.2450408935547,
+              137.29998779296875
+            ],
+            "text": "What Not to Do",
+            "font_size": 14.0,
+            "font": "Calibri-Bold"
+          },
+          {
+            "bbox": [
+              126.05000305175781,
+              154.29998779296875,
+              412.5850524902344,
+              168.29998779296875
+            ],
+            "text": "• Do not hardcode headings or file-specific logic",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              126.05000305175781,
+              171.29998779296875,
+              316.0450439453125,
+              185.29998779296875
+            ],
+            "text": "• Do not make API or web calls",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              126.05000305175781,
+              188.54998779296875,
+              435.5850524902344,
+              202.54998779296875
+            ],
+            "text": "• Do not exceed the runtime/model size constraints",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              72.0250015258789,
+              219.58001708984375,
+              220.01504516601562,
+              233.58001708984375
+            ],
+            "text": "[[Public Dataset Folder]]",
+            "font_size": 14.0,
+            "font": "Calibri-Bold"
+          },
+          {
+            "bbox": [
+              72.0250015258789,
+              250.83001708984375,
+              460.11505126953125,
+              264.83001708984375
+            ],
+            "text": "(For Sample Input and Output Files, please refer to the appendix)",
+            "font_size": 14.0,
+            "font": "Calibri-Bold"
+          }
+        ],
+        "images": [],
+        "tables": []
+      },
+      {
+        "page_number": 7,
+        "text_content": "Round 1B: Persona-Driven Document Intelligence  \nTheme: “Connect What Matters — For the User Who Matters”  \nChallenge Brief (For Participants)  \nYou will build a system that acts as an intelligent document analyst, extracting \nand prioritizing the most relevant sections from a collection of documents based \non a specific persona and their job-to-be-done.  \nInput Specification  \n2. Document Collection: 3-10 related PDFs Persona Definition: Role \ndescription with specific expertise and focus areas  \n3. Job-to-be-Done: Concrete task the persona needs to accomplish  \nDocument collection, persona and job-to-be-done can be very diverse. So, the \nsolution that teams need to build needs to be generic to generalize to this \nvariety.   \n• Documents can be from any domain (Example: Research papers, \nschool/college books, financial reports, news articles etc.)  \n• Persona can again be very diverse (Example: Researcher, Student, \nSalesperson, Journalist, Entrepreneur etc)  \n• Job-to-be-done: This will be related to the persona (Example: \nProvide a literature review for a given topic and available research \npapers, What should I study for Organic Chemistry given the \nchemistry documents, Summarize the financials of corporation xyz \ngiven the detailed year end financial reports etc.)  \nSample Test Cases  \nTest Case 1: Academic Research  \n• Documents: 4 research papers on \"Graph Neural Networks for \nDrug Discovery\"  \n• Persona: PhD Researcher in Computational Biology  \n• Job: \"Prepare a comprehensive literature review focusing on \nmethodologies, datasets, and performance benchmarks\"  \n  \n",
+        "text_blocks": [
+          {
+            "bbox": [
+              72.0250015258789,
+              76.530029296875,
+              489.72149658203125,
+              96.530029296875
+            ],
+            "text": "Round 1B: Persona-Driven Document Intelligence",
+            "font_size": 20.0,
+            "font": "Calibri-Bold"
+          },
+          {
+            "bbox": [
+              72.0250015258789,
+              115.12615966796875,
+              440.59503173828125,
+              131.29998779296875
+            ],
+            "text": "Theme: “Connect What Matters — For the User Who Matters”",
+            "font_size": 14.0,
+            "font": "Calibri-Bold"
+          },
+          {
+            "bbox": [
+              72.0250015258789,
+              148.29998779296875,
+              269.5450439453125,
+              162.29998779296875
+            ],
+            "text": "Challenge Brief (For Participants)",
+            "font_size": 14.0,
+            "font": "Calibri-Bold"
+          },
+          {
+            "bbox": [
+              72.0250015258789,
+              179.54998779296875,
+              526.0460815429688,
+              227.83001708984375
+            ],
+            "text": "You will build a system that acts as an intelligent document analyst, extracting and prioritizing the most relevant sections from a collection of documents based on a specific persona and their job-to-be-done.",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              72.0250015258789,
+              244.83001708984375,
+              187.2450408935547,
+              258.83001708984375
+            ],
+            "text": "Input Specification",
+            "font_size": 14.0,
+            "font": "Calibri-Bold"
+          },
+          {
+            "bbox": [
+              90.05000305175781,
+              273.65618896484375,
+              484.07904052734375,
+              289.83001708984375
+            ],
+            "text": "2. Document Collection: 3-10 related PDFs Persona Definition: Role",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              108.05000305175781,
+              293.0999755859375,
+              400.09503173828125,
+              307.0999755859375
+            ],
+            "text": "description with specific expertise and focus areas",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              126.05000305175781,
+              307.9261474609375,
+              516.885009765625,
+              324.0999755859375
+            ],
+            "text": "3. Job-to-be-Done: Concrete task the persona needs to accomplish",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              72.0250015258789,
+              341.1000061035156,
+              518.8471069335938,
+              389.3699951171875
+            ],
+            "text": "Document collection, persona and job-to-be-done can be very diverse. So, the solution that teams need to build needs to be generic to generalize to this variety.",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              126.05000305175781,
+              406.3699951171875,
+              513.3712158203125,
+              437.6199951171875
+            ],
+            "text": "• Documents can be from any domain (Example: Research papers, school/college books, financial reports, news articles etc.)",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              126.05000305175781,
+              440.6199951171875,
+              520.6089477539062,
+              471.8699951171875
+            ],
+            "text": "• Persona can again be very diverse (Example: Researcher, Student, Salesperson, Journalist, Entrepreneur etc)",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              126.05000305175781,
+              474.8999938964844,
+              507.10308837890625,
+              557.1500244140625
+            ],
+            "text": "• Job-to-be-done: This will be related to the persona (Example: Provide a literature review for a given topic and available research papers, What should I study for Organic Chemistry given the chemistry documents, Summarize the financials of corporation xyz given the detailed year end financial reports etc.)",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              72.0250015258789,
+              574.4299926757812,
+              184.4950408935547,
+              588.4299926757812
+            ],
+            "text": "Sample Test Cases",
+            "font_size": 14.0,
+            "font": "Calibri-Bold"
+          },
+          {
+            "bbox": [
+              72.0250015258789,
+              605.4199829101562,
+              262.7650451660156,
+              619.4199829101562
+            ],
+            "text": "Test Case 1: Academic Research",
+            "font_size": 14.0,
+            "font": "Calibri-Bold"
+          },
+          {
+            "bbox": [
+              126.05000305175781,
+              636.4500122070312,
+              502.1711120605469,
+              667.7000122070312
+            ],
+            "text": "• Documents: 4 research papers on \"Graph Neural Networks for Drug Discovery\"",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              126.05000305175781,
+              670.7000122070312,
+              441.0850524902344,
+              684.7000122070312
+            ],
+            "text": "• Persona: PhD Researcher in Computational Biology",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              126.05000305175781,
+              687.7000122070312,
+              491.5150451660156,
+              718.9500122070312
+            ],
+            "text": "• Job: \"Prepare a comprehensive literature review focusing on methodologies, datasets, and performance benchmarks\"",
+            "font_size": 14.0,
+            "font": "Calibri"
+          }
+        ],
+        "images": [],
+        "tables": []
+      },
+      {
+        "page_number": 8,
+        "text_content": "Test Case 2: Business Analysis  \n• Documents: 3 annual reports from competing tech companies \n(2022-2024)  \n• Persona: Investment Analyst  \n• Job: \"Analyze revenue trends, R&D investments, and market \npositioning strategies\"  \nTest Case 3: Educational Content  \n• Documents: 5 chapters from organic chemistry textbooks  \n• Persona: Undergraduate Chemistry Student  \n• Job: \"Identify key concepts and mechanisms for exam preparation \non reaction kinetics\"  \nRequired Output  \n• Output JSON format: Refer challenge1b_output.json  \nThe output should contain:  \n1. Metadata:  \na. Input documents  \nb. Persona  \nc. Job to be done  \nd. Processing timestamp  \n2. Extracted Section:  \na. Document  \nb. Page number  \nc. Section title  \nd. Importance_rank  \n3. Sub-section Analysis:  \na. Document \nb.  \nc. Refined Text \nd. Page Number Constraints  \n• Must run on CPU only  \n• Model size ≤ 1GB  \n• Processing time ≤ 60 seconds for document collection (3-5 \ndocuments)  \n• No internet access allowed during execution  \n  \n",
+        "text_blocks": [
+          {
+            "bbox": [
+              72.0250015258789,
+              75.030029296875,
+              251.01504516601562,
+              89.030029296875
+            ],
+            "text": "Test Case 2: Business Analysis",
+            "font_size": 14.0,
+            "font": "Calibri-Bold"
+          },
+          {
+            "bbox": [
+              126.05000305175781,
+              106.030029296875,
+              501.41510009765625,
+              137.29998779296875
+            ],
+            "text": "• Documents: 3 annual reports from competing tech companies (2022-2024)",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              126.05000305175781,
+              140.29998779296875,
+              314.0450439453125,
+              154.29998779296875
+            ],
+            "text": "• Persona: Investment Analyst",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              126.05000305175781,
+              157.29998779296875,
+              490.76300048828125,
+              188.54998779296875
+            ],
+            "text": "• Job: \"Analyze revenue trends, R&D investments, and market positioning strategies\"",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              72.0250015258789,
+              205.58001708984375,
+              268.5450439453125,
+              219.58001708984375
+            ],
+            "text": "Test Case 3: Educational Content",
+            "font_size": 14.0,
+            "font": "Calibri-Bold"
+          },
+          {
+            "bbox": [
+              126.05000305175781,
+              236.83001708984375,
+              477.86505126953125,
+              250.83001708984375
+            ],
+            "text": "• Documents: 5 chapters from organic chemistry textbooks",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              126.05000305175781,
+              253.82000732421875,
+              399.84503173828125,
+              267.82000732421875
+            ],
+            "text": "• Persona: Undergraduate Chemistry Student",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              126.05000305175781,
+              270.83001708984375,
+              523.1410522460938,
+              302.0999755859375
+            ],
+            "text": "• Job: \"Identify key concepts and mechanisms for exam preparation on reaction kinetics\"",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              72.0250015258789,
+              319.0999755859375,
+              176.2450408935547,
+              333.0999755859375
+            ],
+            "text": "Required Output",
+            "font_size": 14.0,
+            "font": "Calibri-Bold"
+          },
+          {
+            "bbox": [
+              126.05000305175781,
+              350.1000061035156,
+              447.36505126953125,
+              364.1000061035156
+            ],
+            "text": "• Output JSON format: Refer challenge1b_output.json",
+            "font_size": 14.0,
+            "font": "Calibri-Italic"
+          },
+          {
+            "bbox": [
+              72.0250015258789,
+              381.3699951171875,
+              232.51504516601562,
+              395.3699951171875
+            ],
+            "text": "The output should contain:",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              126.05000305175781,
+              410.1961669921875,
+              210.01504516601562,
+              426.3699951171875
+            ],
+            "text": "1. Metadata:",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              162.0800018310547,
+              427.1961669921875,
+              311.5450439453125,
+              494.6499938964844
+            ],
+            "text": "a. Input documents  b. Persona  c. Job to be done  d. Processing timestamp",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              126.05000305175781,
+              495.7261657714844,
+              253.51504516601562,
+              511.8999938964844
+            ],
+            "text": "2. Extracted Section:",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              162.0800018310547,
+              512.7261962890625,
+              284.7950439453125,
+              580.1700439453125
+            ],
+            "text": "a. Document  b. Page number  c. Section title  d. Importance_rank",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              126.05000305175781,
+              581.2561645507812,
+              269.7950439453125,
+              597.4299926757812
+            ],
+            "text": "3. Sub-section Analysis:",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              162.0800018310547,
+              600.0567016601562,
+              242.06289672851562,
+              614.4199829101562
+            ],
+            "text": "a. Document",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              144.0500030517578,
+              615.2561645507812,
+              315.2950439453125,
+              665.7000122070312
+            ],
+            "text": "b.  c. Refined Text d. Page Number Constraints",
+            "font_size": 14.0,
+            "font": "Calibri-Bold"
+          },
+          {
+            "bbox": [
+              126.05000305175781,
+              668.7000122070312,
+              275.5450439453125,
+              682.7000122070312
+            ],
+            "text": "• Must run on CPU only",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              126.05000305175781,
+              685.9500122070312,
+              248.76504516601562,
+              699.9500122070312
+            ],
+            "text": "• Model size ≤ 1GB",
+            "font_size": 14.0,
+            "font": "Calibri-Bold"
+          },
+          {
+            "bbox": [
+              126.05000305175781,
+              702.9500122070312,
+              479.86505126953125,
+              734.219970703125
+            ],
+            "text": "• Processing time ≤ 60 seconds for document collection (3-5 documents)",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              126.05000305175781,
+              737.2249755859375,
+              404.8350524902344,
+              768.2249755859375
+            ],
+            "text": "• No internet access allowed during execution",
+            "font_size": 14.0,
+            "font": "Calibri"
+          }
+        ],
+        "images": [],
+        "tables": []
+      },
+      {
+        "page_number": 9,
+        "text_content": "Deliverables  \n• approach_explanation.md (300-500 words explaining \nmethodology)  \n• Dockerfile and execution instructions  \nSample input/output for testing  \n \n•  \n \nScoring Criteria  \nCriteria  \nMax \nPoints  \nDescription  \nSection Relevance   \n60  \nHow well selected sections match \npersona + job requirements with \nproper stack ranking  \nSub-Section Relevance  \n40  \nQuality of granular subsection \nextraction and ranking  \n  \n \n \n \n \n \n \n \n \n \n",
+        "text_blocks": [
+          {
+            "bbox": [
+              72.0250015258789,
+              75.030029296875,
+              150.2450408935547,
+              89.030029296875
+            ],
+            "text": "Deliverables",
+            "font_size": 14.0,
+            "font": "Calibri-Bold"
+          },
+          {
+            "bbox": [
+              126.05000305175781,
+              106.030029296875,
+              450.467041015625,
+              137.29998779296875
+            ],
+            "text": "• approach_explanation.md (300-500 words explaining methodology)",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              126.05000305175781,
+              140.29998779296875,
+              362.0650329589844,
+              154.29998779296875
+            ],
+            "text": "• Dockerfile and execution instructions",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              72.0250015258789,
+              171.29998779296875,
+              259.5150451660156,
+              185.29998779296875
+            ],
+            "text": "Sample input/output for testing",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              126.05000305175781,
+              233.58001708984375,
+              147.2150421142578,
+              247.58001708984375
+            ],
+            "text": "•",
+            "font_size": 10.0,
+            "font": "SymbolMT"
+          },
+          {
+            "bbox": [
+              72.0250015258789,
+              295.8499755859375,
+              167.2450408935547,
+              309.8499755859375
+            ],
+            "text": "Scoring Criteria",
+            "font_size": 14.0,
+            "font": "Calibri-Bold"
+          },
+          {
+            "bbox": [
+              72.7750015258789,
+              344.8500061035156,
+              122.21504211425781,
+              358.8500061035156
+            ],
+            "text": "Criteria",
+            "font_size": 14.0,
+            "font": "Calibri-Bold"
+          },
+          {
+            "bbox": [
+              255.10000610351562,
+              327.6000061035156,
+              453.86505126953125,
+              358.8500061035156
+            ],
+            "text": "Max Points  Description",
+            "font_size": 14.0,
+            "font": "Calibri-Bold"
+          },
+          {
+            "bbox": [
+              72.7750015258789,
+              379.6199951171875,
+              286.5450439453125,
+              393.6199951171875
+            ],
+            "text": "Section Relevance   60",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              309.1300048828125,
+              362.6000061035156,
+              504.3331298828125,
+              410.8699951171875
+            ],
+            "text": "How well selected sections match persona + job requirements with proper stack ranking",
+            "font_size": 14.0,
+            "font": "Calibri"
+          },
+          {
+            "bbox": [
+              72.7750015258789,
+              414.6199951171875,
+              483.0810852050781,
+              445.6199951171875
+            ],
+            "text": "Sub-Section Relevance  40  Quality of granular subsection extraction and ranking",
+            "font_size": 14.0,
+            "font": "Calibri"
+          }
+        ],
+        "images": [],
+        "tables": []
+      },
+      {
+        "page_number": 10,
+        "text_content": " \n \nAppendix: \nhttps://github.com/jhaaj08/Adobe-India-\nHackathon25.git \n \n \n  \n  \n \n",
+        "text_blocks": [
+          {
+            "bbox": [
+              72.0250015258789,
+              138.27069091796875,
+              156.6874237060547,
+              162.68475341796875
+            ],
+            "text": "Appendix:",
+            "font_size": 20.0,
+            "font": "AptosDisplay"
+          },
+          {
+            "bbox": [
+              72.0250015258789,
+              189.04998779296875,
+              405.7930603027344,
+              237.33001708984375
+            ],
+            "text": "https://github.com/jhaaj08/Adobe-India-Hackathon25.git",
+            "font_size": 20.0,
+            "font": "Calibri"
+          }
+        ],
+        "images": [],
+        "tables": []
+      }
+    ],
+    "summary": {
+      "total_text_length": 8614,
+      "total_images": 0,
+      "total_tables": 1,
+      "language": "unknown"
+    }
+  }
+}
