@@ -1,0 +1,11 @@
+sample_dataset/
+*.md
+.git/
+.gitignore
+setup_project.sh
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.pytest_cache/
