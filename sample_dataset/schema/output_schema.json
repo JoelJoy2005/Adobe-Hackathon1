@@ -1,0 +1,23 @@
+{
+  "type": "object",
+  "properties": {
+    "document": {
+      "type": "object",
+      "properties": {
+        "sections": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "heading": { "type": "string" },
+              "content": { "type": "string" }
+            },
+            "required": ["heading", "content"]
+          }
+        }
+      },
+      "required": ["sections"]
+    }
+  },
+  "required": ["document"]
+}
