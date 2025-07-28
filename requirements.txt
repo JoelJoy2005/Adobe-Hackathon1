@@ -1,1 +1,11 @@
-pdfminer.six
+# PDF Processing Dependencies
+# Optimized for performance and minimal size
+
+# Core PDF processing library
+PyMuPDF==1.23.5
+
+# Date handling utilities
+python-dateutil==2.8.2
+
+# No additional ML libraries needed to stay under 200MB constraint
+# All processing done with PyMuPDF's built-in capabilities
